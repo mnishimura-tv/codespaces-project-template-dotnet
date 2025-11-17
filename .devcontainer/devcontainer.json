@@ -67,8 +67,7 @@
         "GitHub.copilot-chat",
         "ms-dotnettools.csdevkit",
         "ms-vscode.PowerShell",
-        "ms-vscode.vscode-node-azure-pack",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "anthropic.claude-code"
       ],
       "settings": {
         // Uncomment if you want to disable the minimap view
